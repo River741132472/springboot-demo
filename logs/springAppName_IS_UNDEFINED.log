@@ -1,0 +1,5 @@
+2020-03-04 15:08:08.128 INFO  main [org.apache.catalina.core.StandardService:?]-Starting service [Tomcat]
+2020-03-04 15:08:08.129 INFO  main [org.apache.catalina.core.StandardEngine:?]-Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-04 15:08:08.316 INFO  main [org.apache.jasper.servlet.TldScanner:?]-At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-03-04 15:08:08.321 INFO  main [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:?]-Initializing Spring embedded WebApplicationContext
+2020-03-04 15:08:08.539 INFO  main [org.apache.catalina.core.StandardService:?]-Stopping service [Tomcat]
