@@ -31,9 +31,6 @@ public class User {
         this.age = age;
     }
 
-    //这是我第三次修改这个文件
 
-    //这是我修改的第一个文件个文件
-    //这是我第二次提交这
     //这个文件是我用Dev2提交的ertgertgergyerstgse
 }
